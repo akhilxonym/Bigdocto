@@ -19,9 +19,7 @@ import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
 
-/**
- * Created by quocnguyen on 03/08/2016.
- */
+
 public class CustomListAdapter extends ArrayAdapter<Product> {
 
     ArrayList<Product> products;
