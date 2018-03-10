@@ -7,9 +7,6 @@ package com.example.akhilnigam.bigdocto;
 
 import java.io.Serializable;
 
-/**
- * Created by anandsingh on 28/12/16.
- */
 
 public class MovieDetails  implements Serializable{
 
