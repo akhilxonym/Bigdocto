@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Android Login and Registration</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">LOGIN.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="ranklabel">"User : "</string>
+    <string name="countrylabel">"Name : "</string>
+    <string name="populationlabel">"Contact : "</string>
+    <string name="country_prompt">Choose your city</string>
+    <string-array name="country_arrays">
+        <item>Selet your ity</item>
+        <item>Kanpur</item>
+    </string-array>
+    <string name="dotype">Choose Doctors Sprciality</string>
+    <string-array name="dotypee">
+        <item>Select Doctors Sprciality</item>
+        <item>General Physician</item>
+        <item>Dentist</item>
+    </string-array>
+</resources>
